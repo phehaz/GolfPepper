@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.golfpepper;
 
 import android.app.Application;
 
